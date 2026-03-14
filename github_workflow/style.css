@@ -3,5 +3,8 @@ body{
     text-align: center;
 }
 h1{
-    color: :darkblue;
+    color: darkblue;
+}
+p{
+    color: green;
 }
